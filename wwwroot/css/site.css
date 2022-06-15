@@ -125,15 +125,15 @@ ul {
     white-space: nowrap;
     line-height: 60px; /* Vertically center the text there */
     font-family: 'Nunito', sans-serif;
+    color: #fff;
+    background-color: #0F1C25;
+    text-align: center;
 }
 /*Backgrounds*/
 .bg-navbar {
     background-color: #0F1C25;
 }
-
-.bg-footer {
-    background: -webkit-linear-gradient(110deg, #252152 60%, #e9a8a6 60%);
-    background: -o-linear-gradient(110deg, #252152 60%, #e9a8a6 60%);
-    background: -moz-linear-gradient(110deg, #252152 60%, #e9a8a6 60%);
-    background: linear-gradient(110deg, #252152 60%, #e9a8a6 60%);
+.container-footer{
+  
 }
+
